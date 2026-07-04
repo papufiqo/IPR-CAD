@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IPR-CAD — News &amp; Announcements</title>
+    <link>https://ipr-cad.scientia-naturalis.org/news.html</link>
+    <description>Announcements, deadlines and updates from the IPR-CAD International Scientific Conference.</description>
+    <language>en</language>
+    <atom:link href="https://ipr-cad.scientia-naturalis.org/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>News Intelligence Room Deployed</title>
+      <link>https://ipr-cad.scientia-naturalis.org/news.html</link>
+      <description>Central database path established for chronological institutional statements and tracking outputs.</description>
+      <pubDate>Wed, 01 Jul 2026 14:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eurasian Advisory Directorate Fully Operational</title>
+      <link>https://ipr-cad.scientia-naturalis.org/advisory-board-expanded.html</link>
+      <description>Eurasian regulatory counsel profiles linked across cross-referenced verification ecosystems.</description>
+      <pubDate>Wed, 01 Jul 2026 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Technical FAQ Helpdesk Online</title>
+      <link>https://ipr-cad.scientia-naturalis.org/faq.html</link>
+      <description>Structured Knowledge Base deployed to map researcher identities and structural repository compliance metrics.</description>
+      <pubDate>Wed, 01 Jul 2026 14:26:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
