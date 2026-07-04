@@ -1,0 +1,50 @@
+IPR-CAD/
+│
+├── index.html
+├── about.html
+├── call-for-papers.html
+├── programme.html
+├── committee.html
+├── keynote-speakers.html
+├── registration_open.html
+├── publications.html
+├── proceedings.html
+├── gallery.html
+├── certificates.html
+├── venue.html
+├── sponsors.html
+├── faq.html
+├── contact.html
+├── privacy.html
+├── terms.html
+├── accessibility.html
+├── rss.xml
+├── sitemap.xml
+├── robots.txt
+├── 404.html
+│
+├── news/
+│      index.html
+│      first-news.html
+│      second-news.html
+│
+├── assets/
+│      css/
+│           main.css
+│           animations.css
+│
+│      js/
+│           app.js
+│           navigation.js
+│           gallery.js
+│           search.js
+│
+│      images/
+│
+│      pdf/
+│
+│      icons/
+│
+└── schema/
+        organization.json
+        conference.json
